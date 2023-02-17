@@ -23,5 +23,12 @@ THEN this is added to the section of the README entitled Questions, with instruc
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 
+# Description
+command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer packageLinks to an external site.
+
+# Instillation
+npm i inquirer@8.2.4
+
 # Mock Up
-(potential-enigma\Develop\assets\README-Generator.png)
+https://user-images.githubusercontent.com/118042037/219541726-51756b9c-87cc-4351-9693-1635fe7d8858.mp4
+
